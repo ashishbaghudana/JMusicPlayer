@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Ashish/Downloads/java-audio-player-v.0.1.1.2/java-audio-player-v.0.1.1.2/JavaMediaPlayer.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
